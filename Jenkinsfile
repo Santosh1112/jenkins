@@ -6,6 +6,8 @@ pipeline {
             steps {
                 echo 'Building automatically again '
                 echo'hi guys welcome back to jenkins'
+                                echo'hi guys welcome back to jenkins'
+
             }
         }
  stage('Test') {
