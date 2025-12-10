@@ -5,6 +5,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Building automatically again '
+                echo'hi guys welcome back to jenkins'
             }
         }
  stage('Test') {
